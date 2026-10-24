@@ -1,0 +1,121 @@
+patient_id,display_name,age,sex,diabetes,hypertension,cardiovascular_disease,ckd_stage,dialysis_per_week,schedule_days,shift_start,baseline_sbp,dry_weight_kg,usual_duration_h,bp_medication_categories,albumin_g_dl,hemoglobin_g_dl,potassium_mmol_l,baseline_hr
+SYN-RAVI,Ravi,58,M,1,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,142,72.0,4.0,ACE-inhibitor/ARB;Calcium-channel blocker,3.26,9.4,4.9,78
+SYN-001,,75,F,1,1,1,5D (maintenance hemodialysis),3,"1,3,5",07:00,140,79.0,4.5,Beta-blocker;Alpha-blocker;ACE-inhibitor/ARB,4.07,8.9,4.9,78
+SYN-002,,60,F,0,0,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,169,66.2,4.0,Beta-blocker;Alpha-blocker,3.83,11.9,4.5,75
+SYN-003,,83,M,1,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,140,76.6,3.5,,3.55,10.9,4.9,74
+SYN-004,,65,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,149,55.8,3.5,ACE-inhibitor/ARB;Calcium-channel blocker;Alpha-blocker,4.6,13.0,5.6,80
+SYN-005,,62,M,0,1,1,5D (maintenance hemodialysis),3,"0,2,4",13:00,137,87.0,4.0,Alpha-blocker;Calcium-channel blocker;Diuretic,3.77,10.9,4.4,73
+SYN-006,,79,M,1,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,152,80.9,4.5,Calcium-channel blocker;Alpha-blocker,3.42,11.7,5.0,67
+SYN-007,,67,F,0,0,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,109,68.8,4.5,,3.82,11.9,5.4,63
+SYN-008,,69,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,130,66.6,4.0,Alpha-blocker;Beta-blocker,3.64,10.3,5.5,76
+SYN-009,,69,M,1,0,0,5D (maintenance hemodialysis),2,"1,4",13:00,142,59.3,3.5,Alpha-blocker,3.74,12.1,3.6,76
+SYN-010,,67,M,0,1,0,5D (maintenance hemodialysis),2,"1,4",13:00,124,66.7,3.5,Beta-blocker;ACE-inhibitor/ARB;Alpha-blocker,3.78,11.5,3.6,71
+SYN-011,,62,F,0,0,1,5D (maintenance hemodialysis),2,"1,4",13:00,143,76.8,4.0,Beta-blocker;Alpha-blocker;Calcium-channel blocker,3.37,9.8,5.3,75
+SYN-012,,53,M,1,0,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,165,72.2,3.5,ACE-inhibitor/ARB;Alpha-blocker;Beta-blocker,3.56,8.7,5.0,77
+SYN-013,,63,F,0,1,0,5D (maintenance hemodialysis),2,"0,3",13:00,151,63.5,4.0,Diuretic;Beta-blocker,3.58,12.8,5.6,67
+SYN-014,,62,M,0,0,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,151,64.9,4.0,Alpha-blocker,3.87,9.5,4.8,60
+SYN-015,,69,M,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,132,76.7,4.5,Calcium-channel blocker;Alpha-blocker,3.89,8.6,6.0,68
+SYN-016,,57,M,0,1,1,5D (maintenance hemodialysis),3,"0,2,4",13:00,131,62.1,3.5,Diuretic;Beta-blocker,3.32,10.0,4.5,78
+SYN-017,,58,M,1,1,0,5D (maintenance hemodialysis),2,"0,3",13:00,135,56.6,3.5,Calcium-channel blocker,3.82,12.9,5.0,79
+SYN-018,,69,M,1,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,147,82.7,4.0,Calcium-channel blocker,3.67,10.8,4.3,74
+SYN-019,,81,M,1,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,149,76.9,4.0,Beta-blocker,4.43,8.5,5.8,71
+SYN-020,,68,M,1,1,1,5D (maintenance hemodialysis),2,"1,4",13:00,133,63.2,3.5,Diuretic;Alpha-blocker;Calcium-channel blocker,3.19,11.4,4.7,73
+SYN-021,,33,F,0,0,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,133,75.7,3.5,Beta-blocker,3.62,9.2,5.4,62
+SYN-022,,80,M,1,1,1,5D (maintenance hemodialysis),2,"0,3",13:00,141,67.8,3.5,,3.35,10.7,4.0,80
+SYN-023,,68,F,0,1,1,5D (maintenance hemodialysis),2,"0,3",07:00,135,81.8,4.0,ACE-inhibitor/ARB;Alpha-blocker,3.87,11.0,4.7,82
+SYN-024,,55,M,0,1,1,5D (maintenance hemodialysis),3,"1,3,5",13:00,157,65.3,4.0,ACE-inhibitor/ARB,2.77,9.3,4.5,80
+SYN-025,,59,M,1,0,1,5D (maintenance hemodialysis),3,"0,2,4",13:00,158,42.9,4.0,Beta-blocker,3.97,10.1,5.5,67
+SYN-026,,60,F,1,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,137,78.2,4.5,ACE-inhibitor/ARB;Alpha-blocker;Diuretic,4.1,11.9,5.0,74
+SYN-027,,79,M,1,0,1,5D (maintenance hemodialysis),3,"0,2,4",13:00,162,68.9,4.0,Beta-blocker,3.95,11.4,5.8,78
+SYN-028,,62,M,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,140,68.5,3.5,,3.67,12.7,4.2,80
+SYN-029,,58,M,0,1,0,5D (maintenance hemodialysis),2,"1,4",13:00,139,54.3,4.0,Calcium-channel blocker,3.84,11.0,5.2,72
+SYN-030,,55,F,0,1,0,5D (maintenance hemodialysis),2,"1,4",13:00,164,81.4,3.5,Alpha-blocker;Diuretic;Calcium-channel blocker,2.85,8.3,4.8,70
+SYN-031,,75,M,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,146,62.6,3.5,Beta-blocker;Calcium-channel blocker;Alpha-blocker,4.6,11.5,5.2,79
+SYN-032,,49,M,1,1,0,5D (maintenance hemodialysis),2,"0,3",07:00,139,47.2,4.0,Beta-blocker;Calcium-channel blocker;ACE-inhibitor/ARB,3.68,10.8,5.0,78
+SYN-033,,47,F,1,1,1,5D (maintenance hemodialysis),3,"0,2,4",07:00,130,64.6,3.5,,3.02,9.5,4.1,79
+SYN-034,,77,F,0,1,0,5D (maintenance hemodialysis),2,"1,4",13:00,149,80.7,3.5,Diuretic,3.4,11.0,3.9,73
+SYN-035,,53,M,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,154,55.3,4.5,Beta-blocker;ACE-inhibitor/ARB,3.88,11.9,5.5,80
+SYN-036,,56,M,1,0,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,124,72.5,4.0,Alpha-blocker;ACE-inhibitor/ARB;Diuretic,3.42,12.1,5.0,65
+SYN-037,,70,M,1,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,147,51.2,3.5,Beta-blocker;Calcium-channel blocker,4.14,10.0,4.2,79
+SYN-038,,69,M,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,147,63.4,4.0,Alpha-blocker,3.75,10.7,4.8,82
+SYN-039,,75,F,0,0,1,5D (maintenance hemodialysis),3,"0,2,4",13:00,138,64.0,4.0,Alpha-blocker;Diuretic;ACE-inhibitor/ARB,3.84,10.9,5.7,78
+SYN-040,,54,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,148,62.1,4.0,Beta-blocker,4.09,11.3,4.9,77
+SYN-041,,76,F,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,139,73.0,3.5,Beta-blocker,3.52,11.9,4.9,63
+SYN-042,,74,M,0,0,0,5D (maintenance hemodialysis),2,"0,3",07:00,149,65.0,4.0,Beta-blocker;Alpha-blocker,3.74,10.0,4.6,86
+SYN-043,,70,F,1,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,143,55.3,3.5,Beta-blocker;Alpha-blocker;Diuretic,3.38,12.1,4.8,79
+SYN-044,,60,F,0,1,1,5D (maintenance hemodialysis),3,"0,2,4",13:00,143,66.2,4.0,Diuretic;ACE-inhibitor/ARB,2.86,9.4,5.0,90
+SYN-045,,54,F,0,1,1,5D (maintenance hemodialysis),2,"0,3",13:00,108,69.2,3.5,Diuretic,3.77,11.7,4.3,73
+SYN-046,,49,M,0,0,0,5D (maintenance hemodialysis),2,"1,4",07:00,143,50.4,4.0,,3.24,8.2,4.2,83
+SYN-047,,59,F,1,0,0,5D (maintenance hemodialysis),2,"0,3",07:00,123,54.5,3.5,Calcium-channel blocker,4.1,10.2,4.7,79
+SYN-048,,52,F,1,1,0,5D (maintenance hemodialysis),2,"0,3",13:00,160,54.9,4.0,ACE-inhibitor/ARB;Diuretic,3.41,7.3,5.5,69
+SYN-049,,53,M,0,0,1,5D (maintenance hemodialysis),3,"1,3,5",13:00,124,74.8,4.0,Beta-blocker;Diuretic,3.73,10.9,4.7,84
+SYN-050,,40,F,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,153,62.7,4.0,Alpha-blocker,3.41,9.7,5.0,75
+SYN-051,,67,M,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,146,45.8,4.0,ACE-inhibitor/ARB;Beta-blocker;Alpha-blocker,4.35,10.9,5.0,92
+SYN-052,,55,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,105,42.0,4.0,Calcium-channel blocker;Alpha-blocker;ACE-inhibitor/ARB,3.72,8.0,4.3,82
+SYN-053,,66,M,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,116,50.5,3.5,ACE-inhibitor/ARB;Alpha-blocker,3.69,8.6,5.5,78
+SYN-054,,65,M,0,0,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,120,66.8,3.5,ACE-inhibitor/ARB;Beta-blocker,3.29,13.3,5.4,91
+SYN-055,,54,F,0,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,148,78.6,4.5,Beta-blocker,3.55,11.0,5.0,79
+SYN-056,,63,F,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,148,60.6,3.5,Beta-blocker,3.74,12.0,6.1,81
+SYN-057,,44,F,1,1,1,5D (maintenance hemodialysis),2,"0,3",13:00,161,92.5,3.5,Calcium-channel blocker,3.8,11.3,6.3,84
+SYN-058,,57,M,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,141,58.4,4.0,Calcium-channel blocker,4.07,11.3,3.5,66
+SYN-059,,63,M,0,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,174,63.7,4.0,Calcium-channel blocker,3.58,9.8,6.1,79
+SYN-060,,50,M,0,0,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,133,66.2,3.5,ACE-inhibitor/ARB;Calcium-channel blocker,3.74,11.9,5.3,81
+SYN-061,,68,F,1,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,125,71.6,4.5,Beta-blocker,3.69,9.8,4.6,87
+SYN-062,,65,F,1,1,1,5D (maintenance hemodialysis),2,"1,4",07:00,124,82.4,4.0,Calcium-channel blocker,4.06,8.1,4.9,74
+SYN-063,,73,M,1,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,141,65.1,4.0,Calcium-channel blocker;Beta-blocker;Diuretic,3.32,11.4,4.9,62
+SYN-064,,64,F,1,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,129,69.5,3.5,Alpha-blocker,3.41,11.4,4.3,77
+SYN-065,,60,F,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,155,66.7,3.5,ACE-inhibitor/ARB;Diuretic;Calcium-channel blocker,3.84,11.9,4.7,65
+SYN-066,,51,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,146,70.1,3.5,ACE-inhibitor/ARB;Calcium-channel blocker;Alpha-blocker,4.21,8.8,5.0,77
+SYN-067,,85,M,0,1,1,5D (maintenance hemodialysis),2,"1,4",07:00,144,79.9,3.5,ACE-inhibitor/ARB;Alpha-blocker,3.78,11.9,5.2,85
+SYN-068,,60,M,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,137,62.4,4.0,Diuretic;ACE-inhibitor/ARB,3.72,10.4,4.1,79
+SYN-069,,61,F,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,139,50.4,4.0,ACE-inhibitor/ARB,3.79,10.5,5.6,79
+SYN-070,,43,M,0,1,0,5D (maintenance hemodialysis),2,"0,3",07:00,175,54.3,3.5,Alpha-blocker;Calcium-channel blocker;ACE-inhibitor/ARB,4.05,9.9,5.1,67
+SYN-071,,34,F,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,150,69.4,3.5,Diuretic,3.47,7.8,5.6,65
+SYN-072,,72,F,1,0,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,133,65.9,3.5,Alpha-blocker;Beta-blocker,3.61,8.8,5.3,66
+SYN-073,,53,M,0,1,1,5D (maintenance hemodialysis),3,"0,2,4",07:00,131,56.7,4.0,Beta-blocker,3.47,11.8,4.4,68
+SYN-074,,69,F,0,1,1,5D (maintenance hemodialysis),3,"1,3,5",13:00,153,70.3,4.0,Alpha-blocker,3.18,12.5,3.5,68
+SYN-075,,72,F,0,1,1,5D (maintenance hemodialysis),2,"1,4",13:00,141,66.4,4.0,,3.81,10.1,4.8,73
+SYN-076,,65,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,151,44.8,4.5,Beta-blocker;ACE-inhibitor/ARB;Diuretic,3.52,11.3,5.4,83
+SYN-077,,57,M,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,124,68.1,3.5,Calcium-channel blocker,3.79,10.2,5.0,67
+SYN-078,,52,M,0,1,1,5D (maintenance hemodialysis),2,"1,4",13:00,151,71.2,4.0,Alpha-blocker;Diuretic;ACE-inhibitor/ARB,3.14,11.3,5.1,83
+SYN-079,,46,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,156,70.2,4.0,Calcium-channel blocker;Diuretic;ACE-inhibitor/ARB,3.52,10.6,4.3,59
+SYN-080,,42,F,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,150,72.8,4.5,Calcium-channel blocker;Alpha-blocker,3.95,9.1,5.7,55
+SYN-081,,56,F,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,164,58.5,4.0,Beta-blocker;Calcium-channel blocker;Diuretic,3.29,11.5,4.3,71
+SYN-082,,61,M,0,0,1,5D (maintenance hemodialysis),2,"0,3",13:00,134,56.7,3.5,ACE-inhibitor/ARB;Beta-blocker;Alpha-blocker,3.72,10.8,5.1,71
+SYN-083,,51,M,1,1,1,5D (maintenance hemodialysis),3,"1,3,5",07:00,144,70.4,4.5,Beta-blocker;Calcium-channel blocker,3.74,12.5,5.0,74
+SYN-084,,62,F,1,1,1,5D (maintenance hemodialysis),3,"0,2,4",13:00,133,62.2,4.0,ACE-inhibitor/ARB,4.09,10.6,5.2,65
+SYN-085,,47,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,141,68.2,4.5,ACE-inhibitor/ARB,3.76,10.5,4.1,81
+SYN-086,,54,M,0,1,0,5D (maintenance hemodialysis),2,"0,3",13:00,128,89.1,4.0,ACE-inhibitor/ARB;Alpha-blocker,4.1,9.3,5.3,77
+SYN-087,,46,M,1,1,0,5D (maintenance hemodialysis),2,"0,3",07:00,142,64.6,4.5,Alpha-blocker;ACE-inhibitor/ARB;Calcium-channel blocker,3.26,8.8,4.9,73
+SYN-088,,57,M,1,1,1,5D (maintenance hemodialysis),3,"1,3,5",13:00,149,67.0,4.0,Alpha-blocker;Diuretic;Beta-blocker,3.85,9.1,5.4,77
+SYN-089,,68,M,1,0,1,5D (maintenance hemodialysis),3,"0,2,4",13:00,143,56.5,3.5,ACE-inhibitor/ARB,3.41,11.4,5.5,78
+SYN-090,,60,F,1,0,0,5D (maintenance hemodialysis),2,"0,3",13:00,171,72.6,4.0,Calcium-channel blocker,3.73,10.5,5.2,70
+SYN-091,,69,F,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,127,67.3,4.5,Calcium-channel blocker;Beta-blocker,3.42,9.4,5.4,79
+SYN-092,,51,M,1,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,138,61.2,3.5,Calcium-channel blocker,3.94,12.0,5.2,76
+SYN-093,,66,M,0,1,0,5D (maintenance hemodialysis),2,"0,3",13:00,116,57.0,3.5,Diuretic;Calcium-channel blocker;Beta-blocker,3.51,12.9,5.0,74
+SYN-094,,58,F,1,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,133,68.2,4.5,Beta-blocker;Calcium-channel blocker;ACE-inhibitor/ARB,4.02,11.7,5.1,70
+SYN-095,,47,M,1,1,1,5D (maintenance hemodialysis),3,"1,3,5",07:00,159,67.0,4.0,ACE-inhibitor/ARB;Beta-blocker,3.19,12.4,4.2,84
+SYN-096,,42,F,1,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,131,79.9,4.0,Calcium-channel blocker,2.75,11.7,4.9,80
+SYN-097,,57,F,0,0,1,5D (maintenance hemodialysis),2,"1,4",07:00,144,68.1,4.0,ACE-inhibitor/ARB;Diuretic;Beta-blocker,3.19,12.8,5.4,94
+SYN-098,,64,M,1,1,1,5D (maintenance hemodialysis),3,"0,2,4",07:00,147,58.2,4.0,,4.6,9.6,6.2,76
+SYN-099,,69,M,1,1,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,163,42.0,3.5,Alpha-blocker;Calcium-channel blocker;ACE-inhibitor/ARB,3.59,11.0,5.6,69
+SYN-100,,59,M,1,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,163,57.3,4.0,ACE-inhibitor/ARB,4.29,10.3,5.4,81
+SYN-101,,46,M,1,1,1,5D (maintenance hemodialysis),2,"0,3",13:00,127,63.7,3.5,Calcium-channel blocker;Diuretic,3.56,11.1,4.9,89
+SYN-102,,65,M,0,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,146,46.4,4.0,Beta-blocker;Alpha-blocker;Diuretic,3.45,8.6,4.3,72
+SYN-103,,66,M,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,158,85.3,4.0,ACE-inhibitor/ARB;Beta-blocker;Alpha-blocker,3.82,10.1,4.6,71
+SYN-104,,39,M,0,1,1,5D (maintenance hemodialysis),2,"1,4",13:00,129,56.8,3.5,Beta-blocker,3.47,10.5,4.0,68
+SYN-105,,58,M,0,1,0,5D (maintenance hemodialysis),2,"1,4",13:00,156,58.9,4.0,Beta-blocker;Diuretic;ACE-inhibitor/ARB,4.01,11.5,3.9,61
+SYN-106,,58,F,1,1,1,5D (maintenance hemodialysis),2,"1,4",13:00,138,45.7,4.5,Diuretic;Alpha-blocker;Beta-blocker,3.53,10.9,4.5,78
+SYN-107,,58,M,0,1,0,5D (maintenance hemodialysis),2,"1,4",13:00,150,43.9,3.5,Diuretic;Beta-blocker;ACE-inhibitor/ARB,4.01,9.6,5.6,80
+SYN-108,,76,M,0,1,0,5D (maintenance hemodialysis),2,"1,4",07:00,139,83.8,4.5,,3.79,11.5,4.9,62
+SYN-109,,59,M,0,1,1,5D (maintenance hemodialysis),3,"1,3,5",13:00,153,73.3,4.0,Calcium-channel blocker;Alpha-blocker;Diuretic,4.12,9.5,4.7,74
+SYN-110,,65,F,1,0,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,154,68.5,4.0,Beta-blocker,2.86,11.5,5.1,80
+SYN-111,,85,M,1,1,0,5D (maintenance hemodialysis),3,"0,2,4",07:00,156,67.0,4.5,Calcium-channel blocker,3.31,12.0,5.8,78
+SYN-112,,83,M,1,0,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,124,70.3,4.5,Beta-blocker,2.93,11.7,5.5,65
+SYN-113,,53,M,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,141,82.9,4.0,Alpha-blocker;Diuretic;Calcium-channel blocker,3.43,12.3,4.4,76
+SYN-114,,73,F,1,1,0,5D (maintenance hemodialysis),3,"1,3,5",13:00,127,62.4,3.5,Beta-blocker,3.31,9.4,5.1,86
+SYN-115,,53,M,1,1,0,5D (maintenance hemodialysis),3,"1,3,5",07:00,135,60.8,4.0,ACE-inhibitor/ARB;Alpha-blocker;Beta-blocker,3.53,10.6,4.9,79
+SYN-116,,40,M,0,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,137,53.9,4.5,Beta-blocker,3.76,8.4,5.6,80
+SYN-117,,50,F,1,1,1,5D (maintenance hemodialysis),3,"1,3,5",13:00,140,75.8,4.0,Alpha-blocker,3.86,7.1,5.1,77
+SYN-118,,61,F,1,1,0,5D (maintenance hemodialysis),3,"0,2,4",13:00,129,62.9,4.0,Calcium-channel blocker;Alpha-blocker,4.44,9.0,6.5,87
+SYN-119,,50,M,1,1,0,5D (maintenance hemodialysis),2,"0,3",07:00,147,79.9,4.0,ACE-inhibitor/ARB,4.0,11.0,5.5,70
