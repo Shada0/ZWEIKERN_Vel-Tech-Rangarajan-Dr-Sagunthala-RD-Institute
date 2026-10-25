@@ -21,7 +21,7 @@
 | Live app (Streamlit deployment) | https://nephrotwin-ai.streamlit.app/ |
 | YouTube demo video (unlisted) | https://youtu.be/qpSqBKuTWAU |
 | Pitch deck (Google Drive) | https://drive.google.com/drive/folders/1dMwDoYJ7y4KfA5lY0t1E3bW6U5aWTS-M |
-| Pitch deck (PDF in this repo) | [`presentation/project_presentation.pdf`](presentation/project_presentation.pdf) |
+| Pitch deck (PDF in this repo) | [`presentation/project_presentation.pdf`](presentation/NephroTwin_AI_Pitch_Deck.pdf) |
 | Architecture diagram | [`docs/architecture_diagram.pdf`](docs/architecture_diagram.pdf) |
 | Run locally | `streamlit run app.py` (or Docker, see section 13) |
 | Demo screenshots (folder) | [`docs/screenshots/`](docs/screenshots/) |
