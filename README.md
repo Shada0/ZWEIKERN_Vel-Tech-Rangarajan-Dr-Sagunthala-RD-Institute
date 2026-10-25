@@ -55,7 +55,7 @@ Python 3.10+ · NumPy · pandas · SciPy (ODE integration, nonlinear least squar
 
 ### Demo Video
 **Unlisted YouTube link (15-20 minutes): `[INSERT YOUTUBE UNLISTED VIDEO LINK HERE]`**
-Recording script with timestamps (20:00 total): [`docs/demo_script.md`](docs/demo_script.md).
+Recording script with timestamps (20:45 total, minimum 20 minutes required): [`docs/demo_script.md`](docs/demo_script.md).
 
 ### Open-source License Details
 **MIT License** - see [`LICENSE`](LICENSE). Copyright holder: Zweikern. The real HEMOBP dataset used for validation is **not** redistributed here; see its source license (figshare doi:10.6084/m9.figshare.6260654) and `docs/real_data.md`.
@@ -173,13 +173,25 @@ Pre-generated data and models are included. Docker: `docker build -t nephrotwin 
 
 ## 14. Screenshots
 
-| Project overview | Ravi guided demo (heat wave: 4% -> 55% simulated risk) |
-|---|---|
-| ![Project overview](docs/screenshots/overview.png) | ![Ravi demo](docs/screenshots/ravi_demo.png) |
+Captured from the running Streamlit app (`docs/screenshots/`).
 
-| What-if planner (simulation only) | Real-data validation (HEMOBP) |
+| Project overview | Unit overview |
 |---|---|
-| ![Planner](docs/screenshots/planner.png) | ![Real-data validation](docs/screenshots/real_data.png) |
+| ![Project overview](docs/screenshots/overview.png) | ![Unit overview](docs/screenshots/unit_overview.png) |
+
+| Ravi guided demo, step 5 (baseline 4% -> heat wave 55%) | What-if planner (simulation only) |
+|---|---|
+| ![Ravi demo](docs/screenshots/ravi_demo.png) | ![Planner](docs/screenshots/planner.png) |
+
+| Digital twin profile | Historical replay (prediction first, outcome after) |
+|---|---|
+| ![Twin profile](docs/screenshots/twin_profile.png) | ![Historical replay](docs/screenshots/historical_replay.png) |
+
+| Model evaluation (synthetic) | Real-data validation (HEMOBP) |
+|---|---|
+| ![Model evaluation](docs/screenshots/model_evaluation.png) | ![Real-data validation](docs/screenshots/real_data.png) |
+
+![Real-data ROC curves](docs/screenshots/real_data_roc.png)
 
 ## 15. Limitations
 `docs/clinical_limitations.md`: synthetic data, simplified physiology, circularity, thresholds, uncertainty, real-data underperformance of the twin alone, bias, missing sensors, planner is simulation only, retrospective results cannot show benefit.

@@ -44,6 +44,8 @@ def css():
     [data-testid="stSidebar"]{{background:linear-gradient(180deg,#0f2740 0%,#16324f 100%)}}
     [data-testid="stSidebar"] *{{color:#e8f1f8 !important}}
     [data-testid="stSidebar"] .stRadio label{{padding:.15rem 0}}
+    [data-testid="stSidebar"] [data-baseweb="select"] *{{color:#16324f !important}}
+    [data-testid="stSidebar"] [data-baseweb="select"]>div{{background:#f4f8fb}}
     .banner{{background:#fff4e5;border:1px solid #f0c987;color:#7a4b00;padding:.5rem .9rem;border-radius:10px;font-size:.82rem;margin-bottom:1rem}}
     .card{{background:#fff;border:1px solid #e3e9ef;border-radius:14px;padding:1rem 1.2rem;box-shadow:0 2px 8px rgba(20,40,60,.06);height:100%}}
     .hero{{background:linear-gradient(120deg,#16324f 0%,#0f8b8d 100%);color:#fff;padding:1.8rem 2rem;border-radius:18px;margin-bottom:1.2rem}}
@@ -108,10 +110,15 @@ def clean_dates(df, cols=("date",)):
 
 
 def show_table(df, fmt=None, **kw):
-    """Dataframe with ISO dates, formatted numbers and '\u2014' for missing values."""
-    df = clean_dates(df)
-    sty = df.style.format(fmt or {}, na_rep="\u2014")
-    st.dataframe(sty, hide_index=True, width="stretch", **kw)
+    """Dataframe with ISO dates, formatted numbers and an em dash for missing values (formatted to strings so nothing renders as None)."""
+    df = clean_dates(df); out = pd.DataFrame(index=df.index)
+    for c in df.columns:
+        f = (fmt or {}).get(c)
+        def one(v, f=f):
+            if v is None or (isinstance(v, float) and not np.isfinite(v)) or (not isinstance(v, str) and pd.isna(v)): return "\u2014"
+            return f.format(v) if f else str(v)
+        out[c] = [one(v) for v in df[c]]
+    st.dataframe(out, hide_index=True, width="stretch", **kw)
 
 
 SENSOR_FMT = {"temp_c": "{:.1f}", "home_weight_kg": "{:.1f}", "home_sbp": "{:.0f}", "hr_rest": "{:.0f}", "hrv_rmssd_ms": "{:.0f}", "activity_steps": "{:,.0f}", "sleep_h": "{:.1f}"}

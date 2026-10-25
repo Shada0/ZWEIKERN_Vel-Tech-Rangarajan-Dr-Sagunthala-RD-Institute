@@ -22,7 +22,7 @@ with st.sidebar:
     pid = views._pid() if page in ("Digital twin profile", "Pre-session card") else None
     st.markdown("---"); st.caption("Research prototype v1.0 - synthetic cohort + open HEMOBP validation. Not a medical device. Review with a nephrologist before any treatment decision.")
 
-if page not in ("Digital twin profile", "Pre-session card", "Project overview", "Real-data validation", "Ravi demonstration"): banner()
+if page not in ("Digital twin profile", "Pre-session card", "Project overview", "Real-data validation", "Ravi demonstration", "Historical replay", "Model evaluation", "Daily check-in"): banner()
 {"Project overview": views.home, "Real-data validation": views.real_validation, "Unit overview": views.overview, "Patient list": views.patient_list, "Weekly priority list": views.priority, "Ravi demonstration": views.ravi,
  "Historical replay": views.replay_view, "Model evaluation": views.evaluation, "Data quality": views.quality, "Daily check-in": views.checkin,
  "Limitations & safety": views.limitations}.get(page, lambda: None)()
