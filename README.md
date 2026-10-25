@@ -24,6 +24,7 @@
 | Pitch deck (PDF in this repo) | [`presentation/project_presentation.pdf`](presentation/project_presentation.pdf) |
 | Architecture diagram | [`docs/architecture_diagram.pdf`](docs/architecture_diagram.pdf) |
 | Run locally | `streamlit run app.py` (or Docker, see section 13) |
+| Demo screenshots (folder) | [`docs/screenshots/`](docs/screenshots/) |
 
 ## Submission details (mandatory README items)
 
